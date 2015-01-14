@@ -61,6 +61,8 @@ GEM
     debugger-linecache (1.2.0)
     erubis (2.7.0)
     execjs (2.2.2)
+    foreigner (1.7.2)
+      activerecord (>= 3.0.0)
     globalid (0.3.0)
       activesupport (>= 4.1.0)
     hike (1.2.3)
@@ -157,6 +159,7 @@ DEPENDENCIES
   byebug
   carrierwave
   coffee-rails (~> 4.1.0)
+  foreigner
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.2.0)
