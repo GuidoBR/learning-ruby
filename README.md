@@ -19,3 +19,4 @@
 - Microblog (http://www.noupe.com/development/create-a-simple-twitter-app.html)
 - Blog (http://sixrevisions.com/web-development/how-to-create-a-blog-from-scratch-using-ruby-on-rails/)
 - URL Shortener (http://andrewcallahan.github.io/blog/2014/02/26/make-your-own-url-shortener-with-rails-4-and-heroku/)
+- WebCrawler http://ruby.bastardsbook.com/chapters/web-crawling / http://www.skorks.com/2009/07/how-to-write-a-web-crawler-in-ruby/
