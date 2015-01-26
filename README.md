@@ -20,3 +20,4 @@
 - Blog (http://sixrevisions.com/web-development/how-to-create-a-blog-from-scratch-using-ruby-on-rails/)
 - URL Shortener (http://andrewcallahan.github.io/blog/2014/02/26/make-your-own-url-shortener-with-rails-4-and-heroku/)
 - WebCrawler http://ruby.bastardsbook.com/chapters/web-crawling / http://www.skorks.com/2009/07/how-to-write-a-web-crawler-in-ruby/
+- Todo-list-app http://masteruby.github.io/weekly-rails/2014/03/22/how-to-create-todo-list-app-static-pages.html
